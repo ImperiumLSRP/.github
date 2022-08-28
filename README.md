@@ -3,6 +3,7 @@
 ## training-server
 
 **Tasks**
+- Dynamic interiors/properties
 - Admin utility commands
   - /goto
   - /gethere
