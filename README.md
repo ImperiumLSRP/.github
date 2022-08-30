@@ -9,7 +9,6 @@
   - /gethere
   - etc...
 - LSRP weapon damage values
-- Easier clothing selection
 - /adminduty
 - /rollwindow(s)
 - /info
@@ -17,14 +16,11 @@
 
 **Testing required**
 - Spectating
-- Nametags
-- Recoil
 
 
 ## training-server-client
 
 **Tasks**
-- Fix clothing IDs
 - Updates as required by server tasks
 
 
@@ -34,7 +30,6 @@
 - Statistics
 - Administration
 - Live Map
-- Server control (turn on/off)
 
 <details>
 <summary>UCP information</summary>
